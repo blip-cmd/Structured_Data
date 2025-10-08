@@ -1,26 +1,26 @@
-ID,Date,Amount(GHS),Category,"Payment Method(Cash,MoMo,Card)",Normal(0)/UnExpected(1)
-1,"Sunday, October 5, 2025",-35,Food,Cash,0
-2,"Monday, October 6, 2025",-5,Transport,Cash,0
-3,"Monday, October 6, 2025",-90,Phone Accessories,Cash,1
-4,"Monday, October 6, 2025",-6,Transport,Cash,0
-5,"Monday, October 6, 2025",-28,HailRideTransport,Cash,1
-6,"Monday, October 6, 2025",-5,Water,Cash,0
-7,"Monday, October 6, 2025",-12,Transport,Cash,0
-8,"Monday, October 6, 2025",-25,Game Credits,Card,1
-9,"Tuesday, October 7, 2025",-6,Transport,Cash,0
-10,"Tuesday, October 7, 2025",-23,Hail RideTransport,Cash,1
-11,"Tuesday, October 7, 2025",-15,Drink,Cash,1
-12,"Tuesday, October 7, 2025",-24,Transport,Cash,0
-13,"Tuesday, October 7, 2025",-6,Transport,Cash,0
-14,"Wednesday, October 8, 2025",,Transport,Cash,0
-15,"Wednesday, October 8, 2025",,,,
-16,"Wednesday, October 8, 2025",,,,
-17,"Wednesday, October 8, 2025",,,,
-18,"Wednesday, October 8, 2025",,,,
-19,"Thursday, October 9, 2025",,,,
-20,"Friday, October 10, 2025",,,,
-21,"Saturday, October 11, 2025",,,,
-22,,,,,
-23,,,,,
-24,,,,,
-25,,,,,
+ID, Date                        , Amount(GHS), Category          , "Payment Method(Cash,MoMo,Card)", Normal(0)/UnExpected(1)
+ 1, "Sunday, October 5, 2025"   , -35        , Food              , Cash                            ,                       0
+ 2, "Monday, October 6, 2025"   , -5         , Transport         , Cash                            ,                       0
+ 3, "Monday, October 6, 2025"   , -90        , Phone Accessories , Cash                            ,                       1
+ 4, "Monday, October 6, 2025"   , -6         , Transport         , Cash                            ,                       0
+ 5, "Monday, October 6, 2025"   , -28        , HailRideTransport , Cash                            ,                       1
+ 6, "Monday, October 6, 2025"   , -5         , Water             , Cash                            ,                       0
+ 7, "Monday, October 6, 2025"   , -12        , Transport         , Cash                            ,                       0
+ 8, "Monday, October 6, 2025"   , -25        , Game Credits      , Card                            ,                       1
+ 9, "Tuesday, October 7, 2025"  , -6         , Transport         , Cash                            ,                       0
+10, "Tuesday, October 7, 2025"  , -23        , Hail RideTransport, Cash                            ,                       1
+11, "Tuesday, October 7, 2025"  , -15        , Drink             , Cash                            ,                       1
+12, "Tuesday, October 7, 2025"  , -24        , Transport         , Cash                            ,                       0
+13, "Tuesday, October 7, 2025"  , -6         , Transport         , Cash                            ,                       0
+14, "Wednesday, October 8, 2025", -10        , Transport         , Cash                            ,                       0
+15, "Wednesday, October 8, 2025", -20        , Food              , Cash                            ,                       0
+16, "Wednesday, October 8, 2025", -5         , Water             , Cash                            ,                       0
+17, "Wednesday, October 8, 2025", -15        , Drink             , Cash                            ,                       1
+18, "Wednesday, October 8, 2025", -30        , Game Credits      , Card                            ,                       1
+19, "Thursday, October 9, 2025" , -6         , Transport         , Cash                            ,                       0
+20, "Friday, October 10, 2025"  , -40        , Food              , MoMo                            ,                       0
+21, "Saturday, October 11, 2025", -50        , Entertainment     , Cash                            ,                       1
+22, "Wednesday, October 8, 2025", -8         , Transport         , Cash                            ,                       0
+23, "Thursday, October 9, 2025" , -12        , Food              , Cash                            ,                       0
+24, "Friday, October 10, 2025"  , -25        , Game Credits      , Card                            ,                       1
+25, "Saturday, October 11, 2025", -35        , Food              , MoMo                            ,                       0
