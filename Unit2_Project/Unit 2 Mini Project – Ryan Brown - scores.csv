@@ -1,0 +1,41 @@
+score_id,student_id,subject_id,score,exam_date,Valide exam_date?,subject_name,teacher,student_name(but not unique),gender,school,region
+SC006,S008,SUB5,97,2/25/2024,Valid,Social Studies,Ms. Aidoo,Yaw Mensah,Female,Legon Senior,Eastern
+SC001,S001,SUB2,96,2/20/2025,Valid,English,Mr. Koomson,Esi Dapaah,Female,Tamale Sec,Northern
+SC002,S003,SUB3,94,4/6/2024,Valid,Science,Ms. Aidoo,Kojo Boateng,Male,Legon Senior,Northern
+SC003,S018,SUB4,93,3/17/2025,Valid,ICT,Mr. Boateng,Akua Boateng,Male,Tamale Sec,Greater Accra
+SC004,S010,SUB5,91,9/3/2025,Valid,Social Studies,Ms. Aidoo,Kwame Ofori,Female,Legon Senior,Eastern
+SC005,S003,SUB1,90,4/23/2025,Valid,Math,Mr. Koomson,Kojo Boateng,Male,Legon Senior,Northern
+SC007,S014,SUB4,88,4/10/2024,Valid,ICT,Mr. Boateng,Kwame Boateng,Female,Tamale Sec,Volta
+SC008,S018,SUB4,87,2/16/2025,Valid,ICT,Mr. Boateng,Akua Boateng,Male,Tamale Sec,Greater Accra
+SC009,S015,SUB4,86,12/13/2024,Valid,ICT,Mr. Boateng,Akua Adjei,Male,Akosombo High,Greater Accra
+SC010,S002,SUB5,85,9/11/2024,Valid,Social Studies,Ms. Aidoo,Afua Adjei,Female,Kumasi Tech,Volta
+SC011,S010,SUB4,78,7/13/2024,Valid,ICT,Mr. Boateng,Kwame Ofori,Female,Legon Senior,Eastern
+SC012,S002,SUB5,78,4/4/2025,Valid,Social Studies,Ms. Aidoo,Afua Adjei,Female,Kumasi Tech,Volta
+SC013,S017,SUB4,76,3/8/2025,Valid,ICT,Mr. Boateng,Akua Boateng,Female,Akosombo High,Western
+SC014,S008,SUB3,76,12/10/2024,Valid,Science,Ms. Aidoo,Yaw Mensah,Female,Legon Senior,Eastern
+SC015,S001,SUB4,75,9/12/2024,Valid,ICT,Mr. Boateng,Esi Dapaah,Female,Tamale Sec,Northern
+SC016,S009,SUB5,72,3/29/2025,Valid,Social Studies,Ms. Aidoo,Yaw Mensah,Female,Tamale Sec,Western
+SC017,S011,SUB2,69,4/10/2024,Valid,English,Mr. Koomson,Afua Ofori,Female,Legon Senior,Western
+SC018,S016,SUB4,69,1/16/2024,Valid,ICT,Mr. Boateng,Afua Dapaah,Male,Kumasi Tech,Western
+SC019,S007,SUB2,68,8/30/2024,Valid,English,Mr. Koomson,Kwame Boateng,Female,Legon Senior,Volta
+SC020,S010,SUB3,68,2/20/2025,Valid,Science,Ms. Aidoo,Kwame Ofori,Female,Legon Senior,Eastern
+SC021,S003,SUB1,67,5/7/2025,Valid,Math,Mr. Koomson,Kojo Boateng,Male,Legon Senior,Northern
+SC022,S018,SUB3,65,2/14/2025,Valid,Science,Ms. Aidoo,Akua Boateng,Male,Tamale Sec,Greater Accra
+SC023,S013,SUB4,65,6/17/2024,Valid,ICT,Mr. Boateng,Kwame Adjei,Male,Cape Coast High,Northern
+SC024,S007,SUB2,65,3/1/2024,Valid,English,Mr. Koomson,Kwame Boateng,Female,Legon Senior,Volta
+SC025,S004,SUB2,62,9/28/2024,Valid,English,Mr. Koomson,Kojo Ofori,Male,Akosombo High,Greater Accra
+SC026,S013,SUB5,61,10/19/2024,Valid,Social Studies,Ms. Aidoo,Kwame Adjei,Male,Cape Coast High,Northern
+SC027,S020,SUB2,61,5/13/2025,Valid,English,Mr. Koomson,Akua Dapaah,Male,Tamale Sec,Western
+SC028,S001,SUB5,60,7/13/2024,Valid,Social Studies,Ms. Aidoo,Esi Dapaah,Female,Tamale Sec,Northern
+SC029,S008,SUB1,55,8/10/2024,Valid,Math,Mr. Koomson,Yaw Mensah,Female,Legon Senior,Eastern
+SC030,S014,SUB4,55,3/3/2024,Valid,ICT,Mr. Boateng,Kwame Boateng,Female,Tamale Sec,Volta
+SC031,S016,SUB5,55,11/17/2024,Valid,Social Studies,Ms. Aidoo,Afua Dapaah,Male,Kumasi Tech,Western
+SC032,S014,SUB1,53,2/21/2024,Valid,Math,Mr. Koomson,Kwame Boateng,Female,Tamale Sec,Volta
+SC033,S012,SUB2,51,5/3/2025,Valid,English,Mr. Koomson,Akua Ofori,Female,Legon Senior,Eastern
+SC034,S019,SUB2,51,6/10/2024,Valid,English,Mr. Koomson,Yaw Dapaah,Female,Kumasi Tech,Eastern
+SC035,S015,SUB1,49,3/23/2024,Valid,Math,Mr. Koomson,Akua Adjei,Male,Akosombo High,Greater Accra
+SC036,S002,SUB2,44,3/11/2024,Valid,English,Mr. Koomson,Afua Adjei,Female,Kumasi Tech,Volta
+SC037,S002,SUB1,44,3/10/2024,Valid,Math,Mr. Koomson,Afua Adjei,Female,Kumasi Tech,Volta
+SC038,S019,SUB5,44,8/28/2024,Valid,Social Studies,Ms. Aidoo,Yaw Dapaah,Female,Kumasi Tech,Eastern
+SC039,S017,SUB5,44,5/2/2024,Valid,Social Studies,Ms. Aidoo,Akua Boateng,Female,Akosombo High,Western
+SC040,S020,SUB1,42,9/9/2024,Valid,Math,Mr. Koomson,Akua Dapaah,Male,Tamale Sec,Western
